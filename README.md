@@ -2,6 +2,7 @@
 
 Public GitHub Pages site used as the privacy policy URL for Meta app review.
 
-Live URL will be:
+Live URLs:
 
-- `https://minutechreview.github.io/privacy-policy-page/`
+- Privacy Policy: `https://minutechreview.github.io/privacy-policy-page/`
+- Data Deletion Instructions: `https://minutechreview.github.io/privacy-policy-page/deletion.html`
